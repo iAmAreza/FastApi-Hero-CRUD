@@ -1,0 +1,6 @@
+.env 
+alembic.ini 
+# Ignore Python cache
+__pycache__/
+# Ignore virtual environment
+venv/
