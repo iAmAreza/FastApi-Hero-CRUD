@@ -30,7 +30,7 @@ fastapi_crud/
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/fastapi-crud.git
+git clone git@github.com:iAmAreza/FastApi-Hero-CRUD.git
 cd fastapi-crud
 ```
 
